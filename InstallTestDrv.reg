@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+  
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\HPCTestDrv]
+"Type"=dword:00000001
+"Start"=dword:00000003
+"ErrorControl"=dword:00000001
+"Group"="Base"
+"ImagePath"="\\SystemRoot\\System32\\Drivers\\HPCTestDrv.sys"
+"Description"="HPC - Sample Test Driver"
+"DisplayName"="HPCTestDrv"
